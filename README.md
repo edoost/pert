@@ -3,18 +3,10 @@
 ### Introduction
 This is the code for [***Persian Ezafe Recognition Using Transformers and Its Role in Part-Of-Speech Tagging***](https://www.aclweb.org/anthology/2020.findings-emnlp.86/), published in the Findings of the Association for Computational Linguistics: EMNLP 2020.
 
-The codes are written in Python using the PyTorch framework in Jupyter Notebook format. The names are the file are similar to the names of the models introduced in the paper.
+The codes are written in Python 3.6.9 using the PyTorch framework in Jupyter Notebook format. The names are the file are similar to the names of the models introduced in the paper.
 
 ### Requirements
-```python
-python 3.6.9
-nltk 3.2.5
-numpy 1.18.5
-pytorch 1.7.3
-scikit-learn 0.22.2
-sklearn_crfsuite 0.3.6
-transformers 4.0.0
-```
+You can find the required libraries in the ```requirements.txt``` file.
 
 ### Citation
 ```bibtex
